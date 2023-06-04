@@ -1,4 +1,4 @@
-Este proyecto se encuentra actualmente en fase de desarrollo trabajo para nuevo front  . 
+Este proyecto se encuentra actualmente en fase de desarrollo trabajo para nuevo front end . 
 # Marketplace de Autos 🚗 🚗 🚗 
 
 El Marketplace de Autos es una aplicación web que te permite comprar y vender autos de manera fácil y segura. Con una interfaz intuitiva y funciones amigables y seguras, nuestra plataforma es el lugar perfecto para conectar a compradores y vendedores de autos.
