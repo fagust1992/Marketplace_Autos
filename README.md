@@ -13,4 +13,5 @@ El Marketplace de Autos es una aplicación web que te permite comprar y vender a
 
 ![Markeplace_Autos](https://github.com/fagust1992/Marketplace_Autos/blob/master/src/Components/assets/Img/Untitled.png?raw=true")
 
-
+ link Figma Prototipo
+[Inmobiliaria-San-Jose](https://www.figma.com/proto/HiCr1nvGVB31r2MXod6h0Z/Untitled?type=design&node-id=26-17&scaling=min-zoom&page-id=0%3A1)
